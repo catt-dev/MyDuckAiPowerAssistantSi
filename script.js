@@ -1,3 +1,3 @@
 function InviteToServer() {
-    window.location.href = "https://www.example.com/your-discord-invite-link"; // Zastąp tym linkiem do zaproszenia na Discord
+    window.location.href = "https://discord.com/api/oauth2/authorize?client_id=1205484722046767124&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fcatt-dev.github.io%2FMyDuckAiPowerAssistantSi%2F&scope=identify+connections+guilds.join+gdm.join+rpc.notifications.read+rpc.voice.write+rpc.video.write+rpc.screenshare.write+bot+messages.read+applications.builds.read+applications.store.update+activities.read+dm_channels.read+relationships.read+applications.commands.permissions.update+role_connections.write+voice+activities.write+email+guilds+guilds.members.read+rpc+rpc.voice.read+rpc.video.read+rpc.screenshare.read+rpc.activities.write+webhook.incoming+applications.builds.upload+applications.commands+applications.entitlements"; 
 }
